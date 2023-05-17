@@ -32,4 +32,4 @@ const getHeroeByIdAsyc2=async(id)=>{
         console.log(error);
     }
 }
-getHeroeByIdAsyc2(5);
+getHeroeByIdAsyc2(2);
